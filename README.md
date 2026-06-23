@@ -23,25 +23,34 @@
 <!-- ===================== ABOUT ME ===================== -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" />
+<table>
+<tr>
+<td valign="top" width="58%">
 
 ```ts
 const santhosh = {
   role: "Senior UI Engineer",
-  location: "Bengaluru, Karnataka, India 🇮🇳",
+  location: "Bengaluru, India 🇮🇳",
   experience: "4.5+ years",
-  expertise: ["Angular (v12 → v21)", "PrimeNG", "UI/UX"],
-  passions: ["Performance", "AI-assisted dev", "Clean code"],
-  exploring: ["Angular Signals", "GenAI / LLMs", "AI Agents"],
+  expertise: ["Angular v12→v21", "PrimeNG", "UI/UX"],
+  passions: ["Performance", "AI-assisted dev"],
+  exploring: ["Signals", "GenAI", "AI Agents"],
 };
 ```
+
+</td>
+<td valign="top" width="42%">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="100%" />
+
+</td>
+</tr>
+</table>
 
 - 🔭 Building **enterprise-grade UI architecture**, reusable component libraries, and AI-driven frontend features.
 - 🧩 I love **frontend architecture, performance optimization, and state management** (RxJS, NgRx, Signals).
 - 🌱 Passionate about **continuous learning, AI-assisted development**, and a collaborative coding culture.
 - ⚡ **Fun fact:** I've migrated two large Angular codebases (**12 → 18** and **18 → 21**) — I enjoy untangling messy legacy code almost as much as building shiny new features.
-
-<br clear="both"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 
