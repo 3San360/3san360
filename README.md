@@ -107,39 +107,6 @@ const santhosh = {
 
 <br/>
 
-<!-- ===================== GITHUB STATS ===================== -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=3San360&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=2F81F7&icon_color=8A2BE2" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3San360&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=2F81F7" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=3San360&theme=tokyonight&hide_border=true&ring=2F81F7&fire=8A2BE2&currStreakLabel=2F81F7" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=3San360&theme=tokyo-night&hide_border=true&area=true&color=2F81F7&line=8A2BE2&point=ffffff" alt="Activity Graph" width="95%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=3San360&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
-
-</div>
-
-<br/>
-
-<!-- ===================== SNAKE ANIMATION ===================== -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/3San360/3San360/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-<br/>
-
 <!-- ===================== CERTIFICATIONS ===================== -->
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Achievements & Certifications
 
@@ -191,34 +158,4 @@ const santhosh = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:2F81F7&height=120&section=footer" width="100%" />
 
 </div>
-
-<!--
-  ===================== OPTIONAL: SNAKE WORKFLOW =====================
-  The snake animation above needs this GitHub Action to generate the SVG.
-  Create a file at:  .github/workflows/snake.yml  with the content below,
-  then run it once (Actions tab → Generate Snake → Run workflow).
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
 
