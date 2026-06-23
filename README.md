@@ -23,64 +23,51 @@
 <!-- ===================== ABOUT ME ===================== -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About Me
 
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" />
+
 ```ts
 const santhosh = {
   role: "Senior UI Engineer",
   location: "Bengaluru, Karnataka, India 🇮🇳",
   experience: "4.5+ years",
-  expertise: ["Angular (v12 → v21)", "PrimeNG", "UI/UX", "Frontend Architecture"],
-  passions: ["Performance", "AI-assisted dev", "Clean reusable components"],
-  currentlyExploring: ["Angular Signals", "GenAI / LLMs", "AI Agents"],
+  expertise: ["Angular (v12 → v21)", "PrimeNG", "UI/UX"],
+  passions: ["Performance", "AI-assisted dev", "Clean code"],
+  exploring: ["Angular Signals", "GenAI / LLMs", "AI Agents"],
 };
 ```
 
-- 🔭 Working on **enterprise-grade UI architecture**, reusable component libraries, and AI-driven frontend features.
+- 🔭 Building **enterprise-grade UI architecture**, reusable component libraries, and AI-driven frontend features.
 - 🧩 I love **frontend architecture, performance optimization, and state management** (RxJS, NgRx, Signals).
 - 🌱 Passionate about **continuous learning, AI-assisted development**, and a collaborative coding culture.
 - ⚡ **Fun fact:** I've migrated two large Angular codebases (**12 → 18** and **18 → 21**) — I enjoy untangling messy legacy code almost as much as building shiny new features.
 
-<br/>
+<br clear="both"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 
 <!-- ===================== TECH STACK ===================== -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
 
 <div align="center">
 
-**Languages & Core**
+<a href="#"><img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,react,materialui&theme=dark&perline=8" alt="core stack" /></a>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=azure,git,github,figma,postman,vscode&theme=dark&perline=8" alt="tools" /></a>
 
-**Frameworks & Libraries**
+<br/>
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+**Specialized**
+
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-007ACC?style=for-the-badge&logo=primeng&logoColor=white)
-![Angular Material](https://img.shields.io/badge/Angular%20Material-757575?style=for-the-badge&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=redux&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![ApexCharts](https://img.shields.io/badge/ApexCharts-008FFB?style=for-the-badge&logo=apexcharts&logoColor=white)
-
-**Architecture & Performance**
-
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 ![Signals](https://img.shields.io/badge/Angular%20Signals-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-2F81F7?style=for-the-badge&logo=auth0&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth%20%2F%20SSO-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-
-**Cloud, Integrations & Tools**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![ApexCharts](https://img.shields.io/badge/ApexCharts-008FFB?style=for-the-badge&logo=apexcharts&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![OAuth / SSO](https://img.shields.io/badge/OAuth%20%2F%20SSO-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-2F81F7?style=for-the-badge&logo=keycdn&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -105,7 +92,7 @@ const santhosh = {
 - 🌟 **[project-name](https://github.com/3San360/project-name)** — short description · `Angular` `PrimeNG`
 -->
 
-<br/>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 
 <!-- ===================== CERTIFICATIONS ===================== -->
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Achievements & Certifications
